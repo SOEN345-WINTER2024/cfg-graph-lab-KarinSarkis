@@ -87,7 +87,7 @@ t19=[1,17,21,22]
 }
 
 From class project
-![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KarinSarkis/assets/91097032/78549245-8446-46f3-9c7a-34069f481d9f)
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KarinSarkis/assets/91097032/f309dd3a-ccc3-44b2-925d-56436857adae)
 
 NC
 TR= {1,2,3,4,5,6,7}
