@@ -1,6 +1,7 @@
 Karin Sarkis 40189273
 
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KarinSarkis/assets/91097032/5b2c061a-a029-4ceb-9c88-2821d39e4027)
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KarinSarkis/assets/91097032/cb2feeb8-38c2-46ca-9952-c8ddb9196378)
 
 NC:
 TR= {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22}
